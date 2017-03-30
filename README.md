@@ -14,4 +14,8 @@ gem "lita-doubler", github: 'dpritchett/lita-doubler'
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+```
+Lita > lita double 10
+10 + 10 = 20
+Lita >
+```
