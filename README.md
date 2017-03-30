@@ -1,6 +1,6 @@
 # lita-doubler
 
-[![Build Status](https://travis-ci.org/dpritchett/lita-doubler.svg?branch=master)](https://travis-ci.org/dpritchett/lita-doubler)
+[![Build Status](https://travis-ci.org/dpritchett/lita-doubler.svg?branch=master)](https://travis-ci.org/dpritchett/lita-doubler) [![Gem Version](https://badge.fury.io/rb/lita-doubler.svg)](https://badge.fury.io/rb/lita-doubler)
 
 2 * 2 = 4
 
@@ -9,7 +9,7 @@
 Add lita-doubler to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-doubler", github: 'dpritchett/lita-doubler'
+gem 'lita-doubler'
 ```
 
 ## Usage
