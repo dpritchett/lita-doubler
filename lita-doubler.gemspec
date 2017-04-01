@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-doubler"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Daniel J. Pritchett"]
   spec.email         = ["dpritchett@gmail.com"]
   spec.description   = "Doubles numbers"
